@@ -28,14 +28,11 @@ a {
     
 }
 
-h1{  
-    font-family: "Dancing Script";
-    font-size: 4em;
+h1{
+     font-family: "Dancing Script";
+    font-size: 2em;
     color: white;
-    margin-left: 20%;
-    margin-top: 0;
-    margin-bottom: 30px;
-   
+    margin: 0 0 30px 15%;
 }
 
 .bouton{
@@ -45,9 +42,8 @@ h1{
     border: solid 1px white;
     padding: 15px 30px;
     border-radius: 5px;
-    margin-top: 10%;
     width: 245px;
-
+    margin-top: 10%;
     background-color: rgba(0, 0, 0,0.4);
     
     
